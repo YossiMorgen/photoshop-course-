@@ -1,0 +1,25 @@
+.PostAdd {}
+
+.PostAdd form {
+    width: 250px;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 2px 4px 4px 0px #0000006b;
+}
+
+.PostAdd form label {}
+
+.PostAdd form label span {}
+
+.PostAdd form label input,
+.PostAdd form label textarea {
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    box-shadow: 2px 4px 4px 0px #0000006b;
+    margin-bottom: 13px;
+}
+
+.PostAdd form label textarea {}

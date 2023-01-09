@@ -1,0 +1,73 @@
+header{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header  h1{
+    margin-left: 3vw;
+}
+
+header > a{
+    text-decoration: none;
+    color: white;
+    height: fit-content;
+}
+
+header > div{
+    margin: 3vw;
+}
+.registered{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-content: flex-end;
+    flex-direction: row;
+    align-items: center
+}
+.Layout>header button{
+    background-color: #8bb4c96d;
+    border-radius: 10%;
+    color: purple;
+    border: 2px solid #eceff14e;
+    text-decoration: none;
+    display: inline-block;
+    padding: 3px;
+    height: 30px;
+    margin-right: 3vw;
+}
+
+header img{
+    height: 3rem;
+    /* position: relative;
+    bottom: 2vw; */
+}
+
+.Layout > header > .auth > a{
+    background-color: #8bb4c96d;
+    border-radius: 5%;
+    color: purple;
+    border: 2px solid #eceff14e;
+    text-decoration: none;
+    margin: 5px;
+    display: inline-block;
+    padding: 3px;
+}
+
+.Layout > header > .auth  a:hover,
+.Layout>header button:hover{
+    background-color: #8bb4c9;
+    border: 2px solid #eceff1b4;
+}
+
+/* .Layout > header > a.active{
+    background-color: #8bb4c9;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0);
+} */
+
+/* header > button{
+    margin: 4vw;
+    height: 30px;
+} */

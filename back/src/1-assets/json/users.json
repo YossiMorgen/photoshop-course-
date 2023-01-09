@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "firstName": "Kipi",
+        "lastName": "ben-Kipod",
+        "email": "kipi_ben-Kipod",
+        "password": "1234",
+        "userName": "ertyui",
+        "role": "Admin"
+    },{
+        "id": 3,
+        "firstName": "Kipi",
+        "lastName": "ben-Kipod",
+        "email": "kipi_ben-Kipod",
+        "password": "1234",
+        "userName": "ertyui",
+        "role": "Admin"
+    },
+    {
+        "id": 4,
+        "firstName": "moshie",
+        "lastName": "ufnik",
+        "email": "moshie_ufnik",
+        "password": "12345",
+        "userName": "ertyui",
+        "role": "Admin"
+    },
+    {
+        "id": 5,
+        "firstName": "qc",
+        "lastName": "eqsww",
+        "email": "hrzsd@utf.com",
+        "password": "12345",
+        "userName": "qc rtyu",
+        "role": "User"
+    },
+    {
+        "id": 6,
+        "firstName": "sdfgh",
+        "lastName": "hfg",
+        "email": "fghj@utf.com",
+        "password": "12345",
+        "userName": "qc xcvbn",
+        "role": "User"
+    }
+]

@@ -1,0 +1,10 @@
+.PostCard {
+    padding: 15px;
+    border: 1px solid lightcyan;
+    margin-bottom: 10px;
+    background: white;
+}
+
+.PostCard h3 {
+    margin: 0;
+}

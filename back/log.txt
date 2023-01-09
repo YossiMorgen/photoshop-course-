@@ -1,0 +1,363 @@
+5.12.2022, 19:30:34 	 Can't get id 70!!!
+----------------------------
+5.12.2022, 19:39:08 	 Can't get id 70!!!
+----------------------------
+5.12.2022, 19:56:33 	 toFixed() digits argument must be between 0 and 100
+----------------------------
+5.12.2022, 19:59:04 	 toFixed() digits argument must be between 0 and 100
+----------------------------
+5.12.2022, 20:14:40 	 Route /api/cats Not Found!!!
+----------------------------
+5.12.2022, 20:15:02 	 Route /api/dogs Not Found!!!
+----------------------------
+5.12.2022, 20:15:11 	 Route /api/%D7%9B%D7%9C%20%D7%93%D7%91%D7%A8 Not Found!!!
+----------------------------
+5.12.2022, 20:25:52 	 ID 70 Not exists!!!
+----------------------------
+5.12.2022, 20:25:59 	 ID 71 Not exists!!!
+----------------------------
+5.12.2022, 20:26:06 	 ID 82 Not exists!!!
+----------------------------
+5.12.2022, 20:29:11 	 Route /api/bookssssss Not Found!!!
+----------------------------
+5.12.2022, 20:29:33 	 ID 1 Not exists!!!
+----------------------------
+5.12.2022, 20:29:46 	 ID 1 Not exists!!!
+----------------------------
+5.12.2022, 20:30:15 	 ID 5 Not exists!!!
+----------------------------
+5.12.2022, 20:31:02 	 ID NaN Not exists!!!
+----------------------------
+5.12.2022, 20:33:33 	 Route /api/books/abc Not Found!!!
+----------------------------
+5.12.2022, 20:33:40 	 ID 70 Not exists!!!
+----------------------------
+5.12.2022, 20:33:46 	 Route /api/books/a70 Not Found!!!
+----------------------------
+5.12.2022, 20:33:53 	 Route /api/books/70a Not Found!!!
+----------------------------
+5.12.2022, 21:19:55 	 "price" must be greater than or equal to 0
+----------------------------
+5.12.2022, 21:20:17 	 "price" must be less than or equal to 10000
+----------------------------
+5.12.2022, 21:20:37 	 "name" length must be at least 3 characters long
+----------------------------
+8.12.2022, 20:43:45 	 username or password incorrect
+----------------------------
+8.12.2022, 21:28:47 	 Unauthrized
+----------------------------
+8.12.2022, 21:28:51 	 Unauthrized
+----------------------------
+8.12.2022, 21:28:53 	 Unauthrized
+----------------------------
+8.12.2022, 21:28:54 	 Unauthrized
+----------------------------
+8.12.2022, 21:28:56 	 Unauthrized
+----------------------------
+8.12.2022, 21:30:30 	 "name" length must be at least 3 characters long
+----------------------------
+8.12.2022, 21:30:49 	 "price" must be less than or equal to 10000
+----------------------------
+8.12.2022, 21:31:03 	 Unauthrized
+----------------------------
+8.12.2022, 21:31:59 	 Unauthrized
+----------------------------
+10.12.2022, 21:53:01 	 Route /register Not Found!!!
+----------------------------
+10.12.2022, 21:54:08 	 Route /api/register/ Not Found!!!
+----------------------------
+10.12.2022, 21:54:57 	 Route /api/register Not Found!!!
+----------------------------
+11.12.2022, 11:07:44 	 Email Already Exist
+----------------------------
+11.12.2022, 15:32:29 	 Email Already Exist
+----------------------------
+11.12.2022, 15:34:53 	 User Name Is Already Exist
+----------------------------
+11.12.2022, 16:18:05 	 .userName or password incorrect
+----------------------------
+11.12.2022, 16:18:12 	 User Name Is Already Exist
+----------------------------
+12.12.2022, 18:39:28 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 18:40:55 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 18:41:26 	 Unauthrized
+----------------------------
+12.12.2022, 18:42:20 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+12.12.2022, 18:42:57 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+12.12.2022, 18:43:28 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+12.12.2022, 18:54:22 	 "firstName" length must be at least 2 characters long
+----------------------------
+12.12.2022, 18:54:40 	 "firstName" length must be less than or equal to 17 characters long
+----------------------------
+12.12.2022, 18:54:54 	 "lastName" length must be at least 2 characters long
+----------------------------
+12.12.2022, 19:28:13 	 User Name Is Already Exist
+----------------------------
+12.12.2022, 19:28:56 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+12.12.2022, 19:31:11 	 Cannot read properties of undefined (reading 'substring')
+----------------------------
+12.12.2022, 19:31:40 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:32:10 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:32:57 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:33:15 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:33:48 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:34:03 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:34:17 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:34:32 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:34:52 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:35:46 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 19:57:43 	 Unauthrized: you are not admin
+----------------------------
+12.12.2022, 21:25:35 	 Route /api/books/18 Not Found!!!
+----------------------------
+13.12.2022, 11:05:24 	 Unauthrized
+----------------------------
+13.12.2022, 11:05:57 	 Unauthrized
+----------------------------
+13.12.2022, 11:06:40 	 Unauthrized
+----------------------------
+24.12.2022, 15:08:15 	 Unauthrized
+----------------------------
+24.12.2022, 15:08:44 	 Unauthrized
+----------------------------
+24.12.2022, 15:09:13 	 Unauthrized
+----------------------------
+24.12.2022, 15:15:42 	 Unauthrized
+----------------------------
+24.12.2022, 15:18:26 	 Unauthrized
+----------------------------
+24.12.2022, 15:19:12 	 Unauthrized
+----------------------------
+24.12.2022, 15:20:25 	 Unauthrized
+----------------------------
+24.12.2022, 15:26:11 	 Unauthrized
+----------------------------
+24.12.2022, 15:35:39 	 Unauthrized
+----------------------------
+26.12.2022, 17:28:39 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:28:42 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:28:47 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:28:56 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:29:13 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:29:46 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:30:51 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:33:00 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:33:50 	 Unauthrized
+----------------------------
+26.12.2022, 17:36:32 	 Unauthrized
+----------------------------
+26.12.2022, 17:37:17 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 17:45:50 	 Route /ws Not Found!!!
+----------------------------
+26.12.2022, 20:35:20 	 Route /api/products Not Found!!!
+----------------------------
+26.12.2022, 20:36:16 	 Route /api/products Not Found!!!
+----------------------------
+27.12.2022, 12:50:29 	 ER_BAD_DB_ERROR: Unknown database 'schoolege'
+----------------------------
+27.12.2022, 12:51:24 	 "link" is required
+----------------------------
+27.12.2022, 12:51:57 	 "name" is required
+----------------------------
+27.12.2022, 12:52:04 	 "link" is required
+----------------------------
+27.12.2022, 12:52:12 	 "link" is required
+----------------------------
+27.12.2022, 12:52:18 	 "link" is required
+----------------------------
+27.12.2022, 12:52:26 	 "link" is required
+----------------------------
+27.12.2022, 12:52:35 	 "link" is required
+----------------------------
+27.12.2022, 12:53:57 	 "link" is required
+----------------------------
+29.12.2022, 18:10:04 	 Route /api/products/4 Not Found!!!
+----------------------------
+29.12.2022, 18:10:23 	 Route /api/products/4 Not Found!!!
+----------------------------
+29.12.2022, 18:10:24 	 Route /api/products/4 Not Found!!!
+----------------------------
+31.12.2022, 22:43:08 	 Route /api/auth/login Not Found!!!
+----------------------------
+31.12.2022, 22:43:25 	 Route /api/auth/register Not Found!!!
+----------------------------
+31.12.2022, 22:44:11 	 Route /api/auth/login Not Found!!!
+----------------------------
+31.12.2022, 23:04:42 	 "firstName" is required
+----------------------------
+31.12.2022, 23:06:04 	 "firstName" is required
+----------------------------
+31.12.2022, 23:06:20 	 "email" length must be less than or equal to 17 characters long
+----------------------------
+1.1.2023, 0:10:30 	 Maximum call stack size exceeded
+----------------------------
+1.1.2023, 0:11:46 	 Maximum call stack size exceeded
+----------------------------
+1.1.2023, 0:14:07 	 Maximum call stack size exceeded
+----------------------------
+1.1.2023, 0:26:11 	 Cannot read properties of undefined (reading 'comments')
+----------------------------
+1.1.2023, 0:29:22 	 Converting circular structure to JSON
+    --> starting at object with constructor 'RowDataPacket'
+    |     property 'comments' -> object with constructor 'Array'
+    --- index 0 closes the circle
+----------------------------
+1.1.2023, 10:38:39 	 "name" is required
+----------------------------
+1.1.2023, 10:39:22 	 "name" is required
+----------------------------
+1.1.2023, 10:39:55 	 "body" is required
+----------------------------
+1.1.2023, 10:40:05 	 "body" is required
+----------------------------
+1.1.2023, 10:41:05 	 "body" is required
+----------------------------
+1.1.2023, 10:41:20 	 "time" is required
+----------------------------
+1.1.2023, 10:41:50 	 "time" must be a string
+----------------------------
+1.1.2023, 10:42:27 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 10:43:16 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 10:43:35 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 10:44:09 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 10:45:17 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 13:21:21 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 13:22:43 	 "commentTo" is not allowed
+----------------------------
+1.1.2023, 13:26:37 	 ER_DUP_ENTRY: Duplicate entry 'fghj@utf.com' for key 'Email'
+----------------------------
+1.1.2023, 13:28:25 	 Unauthrized
+----------------------------
+1.1.2023, 13:33:52 	 Unauthrized
+----------------------------
+1.1.2023, 13:34:59 	 Unauthrized
+----------------------------
+1.1.2023, 13:37:26 	 Unauthrized
+----------------------------
+1.1.2023, 13:40:42 	 Unauthrized
+----------------------------
+1.1.2023, 14:32:58 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'דק45ר6א7', 'User')' at line 2
+----------------------------
+1.1.2023, 15:15:33 	 Unauthrized
+----------------------------
+1.1.2023, 15:15:53 	 Unauthrized
+----------------------------
+1.1.2023, 15:16:02 	 Unauthrized
+----------------------------
+1.1.2023, 15:17:26 	 Unauthrized
+----------------------------
+1.1.2023, 15:18:48 	 Unauthrized
+----------------------------
+1.1.2023, 16:11:08 	 Unauthrized
+----------------------------
+1.1.2023, 16:13:57 	 Unauthrized
+----------------------------
+1.1.2023, 16:17:05 	 Unauthrized
+----------------------------
+2.1.2023, 12:30:24 	 ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+----------------------------
+2.1.2023, 12:33:49 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 2
+----------------------------
+2.1.2023, 14:28:33 	 ER_DUP_ENTRY: Duplicate entry 'a53ujuggf58711@gmail.com' for key 'Email'
+----------------------------
+2.1.2023, 14:38:08 	 ER_DUP_ENTRY: Duplicate entry 'gfd@vf.com' for key 'Email'
+----------------------------
+2.1.2023, 14:40:50 	 ENOENT: no such file or directory, open 'C:\Users\ASUS\Desktop\fullStack\fullstack\shschoole\back\src\1-assets\images\.jpg'
+----------------------------
+2.1.2023, 17:14:10 	 ER_DUP_ENTRY: Duplicate entry 'ujgfgf@jfh.com' for key 'Email'
+----------------------------
+2.1.2023, 17:17:38 	 ER_DUP_ENTRY: Duplicate entry 'a53ujuggf58711@gmail.com' for key 'Email'
+----------------------------
+2.1.2023, 17:17:48 	 Unauthrized
+----------------------------
+4.1.2023, 12:38:45 	 Route /favicon.ico Not Found!!!
+----------------------------
+4.1.2023, 16:07:46 	 Unauthrized
+----------------------------
+5.1.2023, 0:00:41 	 Route /undefined Not Found!!!
+----------------------------
+5.1.2023, 0:02:28 	 Route /undefined Not Found!!!
+----------------------------
+5.1.2023, 0:03:35 	 Route /undefined Not Found!!!
+----------------------------
+5.1.2023, 0:33:15 	 Route /null Not Found!!!
+----------------------------
+5.1.2023, 11:33:43 	 Unauthrized
+----------------------------
+5.1.2023, 11:34:20 	 Unauthrized
+----------------------------
+5.1.2023, 11:35:44 	 ER_DUP_ENTRY: Duplicate entry 'a53ujuggf58711@gmail.com' for key 'Email'
+----------------------------
+5.1.2023, 11:36:40 	 Unauthrized
+----------------------------
+5.1.2023, 11:38:51 	 Unauthrized
+----------------------------
+5.1.2023, 12:13:12 	 Route /null Not Found!!!
+----------------------------
+5.1.2023, 12:26:18 	 Route /null Not Found!!!
+----------------------------
+5.1.2023, 12:26:30 	 Route /null Not Found!!!
+----------------------------
+5.1.2023, 15:27:34 	 Unauthrized
+----------------------------
+5.1.2023, 15:28:12 	 ER_DUP_ENTRY: Duplicate entry 'jggds@fd.com' for key 'Email'
+----------------------------
+5.1.2023, 15:28:29 	 Unauthrized
+----------------------------
+5.1.2023, 17:43:17 	 Unauthrized
+----------------------------
+6.1.2023, 14:12:48 	 "description" is required
+----------------------------
+6.1.2023, 14:13:09 	 ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+----------------------------
+6.1.2023, 14:13:45 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'scjsahbcx asxhjbx ajxhbh jcxah s sdc c cq cqd qd)' at line 2
+----------------------------
+6.1.2023, 14:13:46 	 ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'scjsahbcx asxhjbx ajxhbh jcxah s sdc c cq cqd qd)' at line 2
+----------------------------
+6.1.2023, 14:14:01 	 ER_DUP_ENTRY: Duplicate entry 'ktmhf@jfh.com' for key 'Email'
+----------------------------
+6.1.2023, 15:28:32 	 "firstName" is not allowed to be empty
+----------------------------
+6.1.2023, 19:50:47 	 Unauthrized
+----------------------------
+6.1.2023, 23:07:50 	 ER_DUP_ENTRY: Duplicate entry 'a534158711@gmail.com' for key 'Email'
+----------------------------
+6.1.2023, 23:08:19 	 Unauthrized
+----------------------------
+6.1.2023, 23:12:05 	 ER_DUP_ENTRY: Duplicate entry 'a534158711@gmail.com' for key 'Email'
+----------------------------
+6.1.2023, 23:15:20 	 Route /undefined Not Found!!!
+----------------------------
+8.1.2023, 10:25:43 	 "password" is not allowed to be empty
+----------------------------

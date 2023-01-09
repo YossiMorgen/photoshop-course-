@@ -1,0 +1,18 @@
+.UserDetails{
+    height: 100%;
+    direction: rtl
+}
+
+.UserDetails > .personalImage{
+    border-radius: 50%;
+    width: 30vw;
+    height: 30vw;
+    background-color: aqua;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* .UserDetails > h2{
+    display: inline-block;
+} */

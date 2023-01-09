@@ -1,0 +1,99 @@
+
+.VideoSmallList a{
+    background-color: transparent;
+    border: none;
+    background-color: #8bb4c96d;
+    border-radius: 5%;
+    color: purple;
+    border: 2px solid #eceff14e;
+    text-decoration: none;
+    margin: 5px;
+    display: block;
+    display: inline-block;
+    padding: 3px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.VideoSmallList a:hover{
+    background-color: #8bb4c9;
+    border: 2px solid #eceff1b4;
+}
+
+.VideoSmallList .active{
+    cursor: context-menu;
+    border: 2px solid #eceff1b4;
+    background-color: #8bb4c9;
+    color: rgb(0, 0, 0);
+}
+
+
+
+/* .Layout > header > a.active{
+    background-color: #8bb4c9;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0);
+} */
+
+@media only screen and (max-width: 700px) {
+    
+    .SingleVideo{
+        margin-left: 15vw;
+        width: 70vw;
+    }
+    
+    .VideoSmallList{
+        position: absolute;
+        top: 150px;
+        right: 0;
+        direction: rtl;
+        padding: 2vw;
+        column-fill: auto;
+    }
+    
+}
+
+/* .VideosList:nth-child(1){
+    flex-basis: 60%;
+    margin: 10px;
+}  */
+@media only screen and (min-width: 700px) {
+    .VideosList{
+        height: 100%;
+        display: flex;
+    }
+    
+    .SingleVideo{
+        margin-top: -5vh;
+        margin-left: 12vh;
+        flex-basis: 65%;
+    }
+    
+    .VideoSmallList{
+        direction: rtl;
+        padding: 2vw;
+        padding-top: 0;
+        flex-basis: 20%;
+        margin-top: 15vw;
+        margin-left: 23vw;
+        border-left: 1px solid;
+        /* margin-right: 10px; */
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    .SingleVideo{
+        margin-top: -19vh;
+        margin-left: 12vh;
+        flex-basis: 65%;
+    }
+
+    .VideoSmallList{
+        padding: 2vw;
+        padding-top: 0;
+        flex-basis: 20%;
+        margin-top: 15vh;
+        margin-left: 23vw;
+    }
+}
